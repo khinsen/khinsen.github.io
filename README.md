@@ -1,2 +1,3 @@
 # khinsen.github.io
-Personal Web site
+
+This repository contains the source code for my personal Web site.
