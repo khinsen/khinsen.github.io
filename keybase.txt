@@ -1,0 +1,52 @@
+https://keybase.io/khinsen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://khinsen.net
+  * I am khinsen (https://keybase.io/khinsen) on keybase.
+  * I have a public key ASCSrP4D-AfLbU4M8xcDQd53ZZMyxIjutYBftEExkUe9oAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010157f734ef332373fcd937bdc59745a9a664b9970bd246fde1bdf06edb8d7ba1680a",
+            "host": "keybase.io",
+            "kid": "012092acfe03f807cb6d4e0cf3170341de77659332c488eeb5805fb441319147bda00a",
+            "uid": "389acb2bb59da80774d9bdcf8149f719",
+            "username": "khinsen"
+        },
+        "service": {
+            "hostname": "khinsen.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470818147,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470818066,
+        "hash": "b41c703a6c10159d82394e04fc45b6b9c788087a703ed2660ff09c1ad85388e64302acb50b4264c9a994b8c71fa09bfca8176b4a217412495d7b42453e6726c3",
+        "seqno": 568511
+    },
+    "prev": "48ad97386eabebb8dd36d18c2a98006feb0cafa8a12706b0d4485119aa74a1f8",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkqz+A/gHy21ODPMXA0Hed2WTMsSI7rWAX7RBMZFHvaAKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNTdmNzM0ZWYzMzIzNzNmY2Q5MzdiZGM1OTc0NWE5YTY2NGI5OTcwYmQyNDZmZGUxYmRmMDZlZGI4ZDdiYTE2ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTJhY2ZlMDNmODA3Y2I2ZDRlMGNmMzE3MDM0MWRlNzc2NTkzMzJjNDg4ZWViNTgwNWZiNDQxMzE5MTQ3YmRhMDBhIiwidWlkIjoiMzg5YWNiMmJiNTlkYTgwNzc0ZDliZGNmODE0OWY3MTkiLCJ1c2VybmFtZSI6ImtoaW5zZW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImtoaW5zZW4ubmV0IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ3MDgxODE0NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcwODE4MDY2LCJoYXNoIjoiYjQxYzcwM2E2YzEwMTU5ZDgyMzk0ZTA0ZmM0NWI2YjljNzg4MDg3YTcwM2VkMjY2MGZmMDljMWFkODUzODhlNjQzMDJhY2I1MGI0MjY0YzlhOTk0YjhjNzFmYTA5YmZjYTgxNzZiNGEyMTc0MTI0OTVkN2I0MjQ1M2U2NzI2YzMiLCJzZXFubyI6NTY4NTExfSwicHJldiI6IjQ4YWQ5NzM4NmVhYmViYjhkZDM2ZDE4YzJhOTgwMDZmZWIwY2FmYThhMTI3MDZiMGQ0NDg1MTE5YWE3NGExZjgiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECxUBJ/PNuLcLT/v2BQ6axcxJkhitlSbDPcCuhSINn1KBK7ZZa2/u6TtuKaD4JJHmVHx5XE8uS+VqBx7hKpj3sLqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgMlNjkRmdC7jlDYqLXDYBJdm2o0X8ctsyCnEWaLa3XyCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/khinsen
+
