@@ -1,0 +1,2 @@
+#!/bin/bash
+scp -rp index.html img css fonts js keybase.txt googlea75d374af0111fb6.html khinsen_khinsen-net@ssh.nyc1.nearlyfreespeech.net:khinsen.net/
